@@ -1,0 +1,12 @@
+.metadata
+*.tmp
+*.bak
+*.swp
+
+.DS_Store
+
+**/node_modules
+
+.idea
+*.iml
+*.class

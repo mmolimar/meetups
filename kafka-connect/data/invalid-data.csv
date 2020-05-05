@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-04-28T23:58:07,52.0473333,-176.0853333,10.28,-0.05,ml,4,112,0.03869,0.26,av,av70890324,2020-04-30T02:42:27.220Z,"43km ENE of Adak, Alaska",earthquake,1.12,2.1,0.404,4,reviewed,av,av

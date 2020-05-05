@@ -1,0 +1,21 @@
+{
+  "name": "sql2geojson",
+  "version": "0.2.3",
+  "description": "SQL to GeoJSON API Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Sudipto Ghosh",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "pg": "^7.7.1",
+    "pg-hstore": "^2.3.2"
+  }
+}
