@@ -8,7 +8,7 @@ HADOOP_PORT=${HADOOP_PORT:-8020}
 DB_HOST=${DB_HOST:-localhost}
 DB_PORT=${DB_PORT:-5432}
 DB_SCHEMA=${DB_SCHEMA:-meetup}
-DB_USER=${DB_USER:-username}
+DB_USER=${DB_USER:-mmolina}
 
 function print_usage
 {

@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 5000;
 let DBUrl_PG, DBUrl_MY, DBPool, DBClient, spatial_query;
 
 const DB = process.env.DB_DRIVER || "postgres";
-const DBUser = process.env.DB_USER || "username";
+const DBUser = process.env.DB_USER || "mmolina";
 const DBPass = process.env.DB_PASSWORD || "";
 const DBHost = process.env.DB_HOST || "localhost";
 const DBPort = process.env.DB_PORT || "5432";
